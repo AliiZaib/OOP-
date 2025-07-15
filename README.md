@@ -1,2 +1,2 @@
-# OOP-
+# OOP
 This is OOP project.
